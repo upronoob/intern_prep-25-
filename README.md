@@ -1,2 +1,3 @@
 # intern_prep-25-
-This is a place where I will be storing all the relevant Intern resources moving forward.
+This is where I will be storing all the relevant Intern resources moving forward.
+Be it all the companies coming for intern, or the resources. Playlist of questions, maybe their solutions as well? Will ask other friend's to collaborate as well here.
